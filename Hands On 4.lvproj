@@ -15,11 +15,11 @@
 		<Item Name="Random Number#2.vi" Type="VI" URL="../Random Number#2.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">
-			<Item Name="My Zip File" Type="Zip File">
+			<Item Name="Hands On 4" Type="Zip File">
 				<Property Name="Absolute[0]" Type="Bool">false</Property>
-				<Property Name="BuildName" Type="Str">My Zip File</Property>
+				<Property Name="BuildName" Type="Str">Hands On 4</Property>
 				<Property Name="Comments" Type="Str"></Property>
-				<Property Name="DestinationID[0]" Type="Str">{595F35C7-F589-4183-9DEE-617FC1D1536B}</Property>
+				<Property Name="DestinationID[0]" Type="Str">{53FEFCF7-4942-4DEC-9482-DEB715AC3B68}</Property>
 				<Property Name="DestinationItemCount" Type="Int">1</Property>
 				<Property Name="DestinationName[0]" Type="Str">Destination Directory</Property>
 				<Property Name="IncludedItemCount" Type="Int">1</Property>
