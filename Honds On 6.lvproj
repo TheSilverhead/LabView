@@ -11,6 +11,8 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="HO6_Generator3.vi" Type="VI" URL="../HO6_Generator3.vi"/>
+		<Item Name="Random Number#2.vi" Type="VI" URL="../Random Number#2.vi"/>
+		<Item Name="Slope#2.vi" Type="VI" URL="../Slope#2.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
@@ -47,8 +49,6 @@
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
-			<Item Name="Random Number#2.vi" Type="VI" URL="../Random Number#2.vi"/>
-			<Item Name="Slope#2.vi" Type="VI" URL="../Slope#2.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
