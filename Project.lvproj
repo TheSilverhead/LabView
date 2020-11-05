@@ -10,7 +10,9 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="LINX - Photocell_edited.vi" Type="VI" URL="../Final project vi/LINX - Photocell_edited.vi"/>
+		<Item Name="diming light as water pump.vi" Type="VI" URL="../Final project vi/diming light as water pump.vi"/>
+		<Item Name="diming light.vi" Type="VI" URL="../Final project vi/diming light.vi"/>
+		<Item Name="fan.vi" Type="VI" URL="../Final project vi/fan.vi"/>
 		<Item Name="LINX - Photocell_to water level.vi" Type="VI" URL="../Final project vi/LINX - Photocell_to water level.vi"/>
 		<Item Name="Project.vi" Type="VI" URL="../Project.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
