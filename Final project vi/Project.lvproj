@@ -10,7 +10,6 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="DHT.vi" Type="VI" URL="../DHT.vi"/>
 		<Item Name="Project.vi" Type="VI" URL="../Project.vi"/>
 		<Item Name="Read DHT11.vi" Type="VI" URL="../Read DHT11.vi"/>
 		<Item Name="RH Correction Via PWM.vi" Type="VI" URL="../RH Correction Via PWM.vi"/>
