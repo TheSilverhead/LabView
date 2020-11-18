@@ -13,7 +13,6 @@
 		<Item Name="Project.vi" Type="VI" URL="../Project.vi"/>
 		<Item Name="Read DHT11.vi" Type="VI" URL="../Read DHT11.vi"/>
 		<Item Name="RH Correction Via PWM.vi" Type="VI" URL="../RH Correction Via PWM.vi"/>
-		<Item Name="RunPWM.vi" Type="VI" URL="../RunPWM.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="1D Boolean Array Changed__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/comparison/comparison.llb/1D Boolean Array Changed__ogtk.vi"/>
