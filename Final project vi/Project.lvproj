@@ -10,10 +10,17 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="DHT11 code from Arafa Microsys" Type="Folder">
+			<Item Name="dht.ino" Type="Document" URL="../DHT11 code from Arafa Microsys/dht.ino"/>
+		</Item>
+		<Item Name="config.ini" Type="Document" URL="../config.ini"/>
+		<Item Name="Hydruino Final Project Report.pdf" Type="Document" URL="../Hydruino Final Project Report.pdf"/>
+		<Item Name="Hydruino Slideshow.pdf" Type="Document" URL="../Hydruino Slideshow.pdf"/>
 		<Item Name="Project.vi" Type="VI" URL="../Project.vi"/>
 		<Item Name="Read DHT11.vi" Type="VI" URL="../Read DHT11.vi"/>
 		<Item Name="RH Correction Via PWM.vi" Type="VI" URL="../RH Correction Via PWM.vi"/>
 		<Item Name="Rh_to_Absolute_Humidity.vi" Type="VI" URL="../Rh_to_Absolute_Humidity.vi"/>
+		<Item Name="System Pictures.zip" Type="Document" URL="../System Pictures.zip"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="1D Boolean Array Changed__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/comparison/comparison.llb/1D Boolean Array Changed__ogtk.vi"/>
@@ -140,6 +147,20 @@
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 		</Item>
-		<Item Name="Build Specifications" Type="Build"/>
+		<Item Name="Build Specifications" Type="Build">
+			<Item Name="Hydruino Final Project" Type="Zip File">
+				<Property Name="Absolute[0]" Type="Bool">false</Property>
+				<Property Name="BuildName" Type="Str">Hydruino Final Project</Property>
+				<Property Name="Comments" Type="Str"></Property>
+				<Property Name="DestinationID[0]" Type="Str">{19476BAC-8862-4B99-A64E-C8C410F2F6C3}</Property>
+				<Property Name="DestinationItemCount" Type="Int">1</Property>
+				<Property Name="DestinationName[0]" Type="Str">Destination Directory</Property>
+				<Property Name="IncludedItemCount" Type="Int">1</Property>
+				<Property Name="IncludedItems[0]" Type="Ref">/My Computer</Property>
+				<Property Name="IncludeProject" Type="Bool">true</Property>
+				<Property Name="Path[0]" Type="Path">../../builds/FinalProject.zip</Property>
+				<Property Name="ZipBase" Type="Str">NI_zipbasedefault</Property>
+			</Item>
+		</Item>
 	</Item>
 </Project>
